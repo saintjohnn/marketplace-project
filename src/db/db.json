@@ -1,0 +1,85 @@
+{
+  "courses": [
+    {
+      "id": "6837a88cf6246d98be47bbed",
+      "name": "Curso Javascript",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de Javascript",
+      "thumbnail": "https://wallpaperaccess.com/full/1555163.jpg",
+      "rate": 10,
+      "subscribers": 1190,
+      "durationHours": 56
+    },
+    {
+      "id": "6837a88cf6246d98be47bbee",
+      "name": "Curso Nodejs",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de Nodejs",
+      "thumbnail": "https://wallpapercave.com/wp/wp5070716.jpg",
+      "rate": 10,
+      "subscribers": 2702,
+      "durationHours": 4.5
+    },
+    {
+      "id": "6837a88cf6246d98be47bbef",
+      "name": "Curso React",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de React",
+      "thumbnail": "https://c4.wallpaperflare.com/wallpaper/294/834/442/reactjs-facebook-javascript-minimalism-wallpaper-preview.jpg",
+      "rate": 6,
+      "subscribers": 1200,
+      "durationHours": 4
+    },
+    {
+      "id": "6837a88cf6246d98be47bbf0",
+      "name": "Curso mongoDB",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de mongoDB",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1200/1*QJnvahq_EBdUGjYQUYrhvA.png",
+      "rate": 7,
+      "subscribers": 1200,
+      "durationHours": 39
+    },
+    {
+      "id": "6837a88cf6246d98be47bbf1",
+      "name": "Curso PostgreSQL",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de PostgreSQL",
+      "thumbnail": "https://webapp.io/blog/content/thumbnails/2019/11/postgres.png",
+      "rate": 9,
+      "subscribers": 1800,
+      "durationHours": 23
+    },
+    {
+      "id": "6837a88cf6246d98be47bbf2",
+      "name": "Curso Docker",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de Docker",
+      "thumbnail": "https://media2.dev.to/dynamic/thumbnail/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fbvuo807bub1io4qcyek9.png",
+      "rate": 8,
+      "subscribers": 1520,
+      "durationHours": 6
+    },
+    {
+      "id": "6837a88cf6246d98be47bbf3",
+      "name": "Curso Jest",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de Jest",
+      "thumbnail": "https://jestjs.io/pt-BR/img/opengraph.png",
+      "rate": 6,
+      "subscribers": 1200,
+      "durationHours": 5
+    },
+    {
+      "id": "6837a88cf6246d98be47bbf4",
+      "name": "Curso Java",
+      "description": "Nesse curso aprenderemos de maneira prática e bem estruturada ctodos os fundamentos de Java",
+      "thumbnail": "https://cdn.wallpapersafari.com/95/49/8OFpch.png",
+      "rate": 0,
+      "subscribers": 700,
+      "durationHours": 46
+    },
+    {
+      "id": "6837a88cf6246d98be47bbf5",
+      "name": "Saint",
+      "description": "ooooi",
+      "thumbnail": "undefinedki",
+      "rate": 1,
+      "subscribers": 1000000,
+      "durationHours": 1
+    }
+  ]
+}
